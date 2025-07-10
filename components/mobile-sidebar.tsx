@@ -63,7 +63,7 @@ export function MobileSidebar({ activeTab, setActiveTab, isOpen, setIsOpen }: Mo
               </div>
               <div>
                 <h1 className="text-xl font-bold text-gray-900">DevCraft AI</h1>
-                <p className="text-sm text-gray-500">Kaya Aydınlatma</p>
+                <p className="text-sm text-gray-500">Monitor | Observe</p>
               </div>
             </div>
             <Button
